@@ -35,7 +35,7 @@ Keras-Tuner
 
 U-Net with Attention Mechanisms
 
-Satellite Datasets (Sentinel-2, Landsat-8)
+Dataset with satellite images and binary mask
 
 #  Applications
 Disaster management and mitigation
